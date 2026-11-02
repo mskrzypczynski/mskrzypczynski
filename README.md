@@ -8,10 +8,10 @@ I’m a Salesforce developer working with OmniStudio on insurance projects. I al
 
 **My tools**
 
-- **[OmniScript Data Inspector](https://mskrz.com/omniscript-data-inspector/)** helps you inspect a running OmniScript’s live data, structure and captured calls in DevTools.
-- **[OmniStudio Finder](https://mskrz.com/omnistudio-finder/)** helps you find OmniScripts, Integration Procedures, Data Mappers and FlexCards, and open the version you need.
+- **[mskrz Data Inspector for OmniStudio](https://mskrz.com/omniscript-data-inspector/)** helps you inspect a running OmniScript’s live data, structure and captured calls in DevTools.
+- **[mskrz Component Finder for OmniStudio](https://mskrz.com/omnistudio-finder/)** helps you find OmniScripts, Integration Procedures, Data Mappers and FlexCards, and open the version you need.
 
-Both extensions run in your browser, and your org data stays with you.
+Found a bug or have an idea? Open an issue in [omnistudio-tools](https://github.com/mskrzypczynski/omnistudio-tools/issues).
 
 **I work with:** Salesforce · OmniStudio · Insurance (Industries / FSC) · LWC · Apex · JavaScript
 
