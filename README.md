@@ -17,4 +17,4 @@ Found a bug or have an idea? Open an issue in [omnistudio-tools](https://github.
 
 You can find my Salesforce certifications and learning activity on my [Trailblazer profile](https://www.salesforce.com/trailblazer/mskrzypczynski).
 
-🌐 [mskrz.com](https://mskrz.com) · 📫 [mskrz@proton.me](mailto:mskrz@proton.me) · ☕ [Buy me a coffee](https://buycoffee.to/mskrz)
+🌐 [mskrz.com](https://mskrz.com) · 📫 [contact@mskrz.com](mailto:contact@mskrz.com) · ☕ [Buy me a coffee](https://buycoffee.to/mskrz)
